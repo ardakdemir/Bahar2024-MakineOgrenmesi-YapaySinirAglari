@@ -48,5 +48,5 @@ jupyter notebook
 
 Asagidaki ornekteki gibi `gedik-makine-ogrenmesi` kernelini secin
 
-![](assets/Screenshot 2024-03-14 at 13.30.27.png)
+![kernel](./assets/Screenshot 2024-03-14 at 13.30.27.png)
 
