@@ -45,7 +45,7 @@ Opsiyon 2 icin verilen `vize_assignment_notebook_starter.ipynb` dosyasini refera
 
 ## Opsiyon 2
 
-Kendi secmek istediginiz bir problem veya veri seti yoksa, asagida verilen verisetini derste gordugumuz kredi skoru tahmini problemi icin kullanabilirsiniz.
+Kendi secmek istediginiz bir problem veya veri seti yoksa, asagida verilen verisetini derste gordugumuz kredi skoru tahmini problemi icin kullanabilirsiniz. Bunun icin `pandas`, `sklearn` ve `numpy` kutuphanelerinden faydalanacagiz.
 
 
 Kredi skoru tahmini: Poor vs Good
@@ -54,13 +54,38 @@ Veri seti: https://drive.google.com/drive/folders/1hTIzpEW8XP2Tu26xb5cSYi8qUZTTm
 
 Bu dosyadaki `vize_assignment_notebook_starter.ipynb` notebookunu baslangic olarak kullanin ve yukarda belirtilen kisimlari kodlayin.
 
+### Sample data
+
+```
+Annual_Income,Num_of_Delayed_Payment,Monthly_Inhand_Salary,Credit_Score
+22380.18,16.0,1385.2645393571067,Good
+99166.77,7.0,8305.8975,Good
+10496.255,17.0,1141.6879166666668,Poor
+44438.41,2.0,3974.200833333334,Good
+15330.305,19.0,1135.5254166666666,Good
+80692.28,21.0,6856.356666666668,Poor
+24858.67,13.0,1977.555833333333,Good
+```
+
+### Input
+
+```
+['Num_of_Delayed_Payment','Annual_Income','Monthly_Inhand_Salary']
+
+```
+
+### Output Column
+
+```
+Credit_Score
+```
 
 ## Proje teslimi
 
 - Teslim tarihi: 7 Nisan 2024 23:59 TR saatiyle
 - Format: butun kodunuz bir jupyter notebook icinde yukardan asagi calistirilabilir sekilde olmali.
 - Teslim: ardaakdemir1@gmail.com adresine mail gonderin
-    - Konu: \{Ders Kodu\} \{Isim Soyisim\} Vize Projesi
+    - Konu: \[Ders Kodu\] \[Isim Soyisim\] Vize Projesi
     - jupyter notebook as attachment
 
 
