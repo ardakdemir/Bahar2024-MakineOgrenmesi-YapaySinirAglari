@@ -16,19 +16,19 @@ Final projesi olarak beklentim asagidaki verilen makalelerden birini secip final
 
 Lutfen asagidaki makalelerden birini secin. Birden fazla ogrenci ayni konuyu secebilir:
 
-1- https://www.cs.ubc.ca/~murphyk/Bayes/rabiner.pdf 
-2- https://arxiv.org/pdf/2110.01889
-3- https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
-4- https://nlp.seas.harvard.edu/annotated-transformer/
-5- https://arxiv.org/pdf/1706.03762
-6- https://arxiv.org/pdf/1409.0473 
-7- https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
-8- https://arxiv.org/pdf/1410.5401
-9- https://arxiv.org/pdf/2001.08361
-10- https://arxiv.org/pdf/1506.03134
-11- https://www.cs.toronto.edu/~hinton/absps/colt93.pdf 
-12- https://hastie.su.domains/Papers/samme.pdf
-13- https://arxiv.org/pdf/2310.03714
+- https://www.cs.ubc.ca/~murphyk/Bayes/rabiner.pdf 
+- https://arxiv.org/pdf/2110.01889
+- https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
+- https://nlp.seas.harvard.edu/annotated-transformer/
+- https://arxiv.org/pdf/1706.03762
+- https://arxiv.org/pdf/1409.0473 
+- https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
+- https://arxiv.org/pdf/1410.5401
+- https://arxiv.org/pdf/2001.08361
+- https://arxiv.org/pdf/1506.03134
+- https://www.cs.toronto.edu/~hinton/absps/colt93.pdf 
+- https://hastie.su.domains/Papers/samme.pdf
+- https://arxiv.org/pdf/2310.03714
 
 
 Makale seciminizi lutfen email yoluyla 1 Haziran 2024 tarihine kadar email yoluyla bana bildirin.
