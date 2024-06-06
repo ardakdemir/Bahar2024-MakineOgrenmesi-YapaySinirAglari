@@ -9,8 +9,18 @@ Final projesi olarak beklentim asagidaki verilen makalelerden birini secip final
 
 - Her sunum makalenin onemli katkilarini ve gerektigi yerde referanslari da anlatmali.
 
-- 12 dakika sunum + 3dk soru cevap seklinde olacak.
+- Her sunum en az 15 dakika uzunlugunda olmali.
 
+## Sunum Teslimi
+
+Ogrenci sayisi fazla oldugu icin ve bircok arkadas benzer makaleleri sunmayi sectiginden, sunumlarin online olmamasina karar verdim.
+
+- Teslim tarihi: 12 Haziran 2024 (online teslim)
+- Lutfen sunumunuzun video kaydini alip bana gonderin. Kayit icin istediginiz sistemi kullanabilirsiniz.
+- Sunum en az 15 dakika ve en fazla 30 dakika olmali.
+- Sunum kaydiyla beraber notlandirmam icin sunum slaytlarini da lutfen gonderin.
+
+Tesekkurler! 
 
 ## Makale Opsiyonlari
 
